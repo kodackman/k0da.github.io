@@ -1,0 +1,18 @@
+Package: com.yourcompany.tsum2
+Architecture: iphoneos-arm
+Version: 1.102.0
+Section: Tweaks
+Maintainer: kodackman
+Installed-Size: 1556
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.tsum2_1.102.0_iphoneos-arm.deb
+Size: 1059924
+MD5sum: 1a195811d44496155684fc4807efb944
+SHA1: a7288574680c85a8bbb9843112d00e7005f6f752
+SHA256: 39b340a1122313c7978bbdca04d383c39ae6085c4af42284b7658a9c0d7c6211
+SHA512: 7b1a421500625829b09883ed27eab6d511d1aa5ee8cbb981d9441b9c26befb234486faceab84db5830bef3dab75e72d92035c703e6cd1c2d367cd534095bf797
+Homepage: no
+Description: tsumtsum Mod Menu by kodackman!
+Name: tsumtsum Mod Menu
+Author: kodackman
+
